@@ -44,7 +44,7 @@
 
 <br />
 
-###Currently focused on building:
+### Currently focused on building:
 
 - [Simple-TodoApp](https://github.com/MarcoDaVinchi/Simple-TodoApp)
 
