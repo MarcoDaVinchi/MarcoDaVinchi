@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Marat! It's nice to see you here!
 
+---
+
 ## I'm an enthusiastic Developer, Programmer, Cool Hacker (more likely script kiddie but anyway🤣), Husband and Father!
 
 - 🔭 I’m currently working on my simple TodoApp Angular/NestJs portfolio project.
@@ -9,11 +11,13 @@
 - ⚡ Fun fact: My first PC was Vilnus 86 in the Informatics class) and I made an MTV logo with Basic on it)
   And that was IT!
 
+---
+
 ### Connect with me:
 
-<a href="mailto:mag-marat@yandex.ru"><img alt="MarcoDaVinchi | VK" width="32px" src="icons/mail.svg" style="margin-right:5px;"/></a>[<img alt="MarcoDaVinchi | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin-right:5px;"/>][instagram][<img alt="MarcoDaVinchi | VK" width="32px" src="icons/vk.svg" style="margin-right:5px;" />][vk]
+<a href="mailto:mag-marat@yandex.ru"><img alt="MarcoDaVinchi | VK" width="32px" src="icons/mail.svg" /></a>&nbsp;[<img alt="MarcoDaVinchi | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;[<img alt="MarcoDaVinchi | VK" width="32px" src="icons/vk.svg" />][vk]
 
-<br />
+---
 
 ### Languages and Tools:
 
@@ -41,13 +45,9 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
-<br />
-
 ### Currently focused on building:
 
 - [Simple-TodoApp](https://github.com/MarcoDaVinchi/Simple-TodoApp)
-
-<br />
 
 [vk]: https://vk.com/marcodavinchi
 [instagram]: https://www.instagram.com/marcodavinchi/
