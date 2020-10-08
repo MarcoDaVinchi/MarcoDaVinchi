@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning actually lots of stuff. Primaries are Angular/NodeJS(and Its Frameworks) and JavaScript ecosystem in general, but also I'm learning some stuff about Python and C#.
 - 💬 Ask me about anything you are interested in 😄.
 - 🥅 2020 Goals: Find an interesting Dev Job, Contribute more to Open Source projects and Read and Read lots of fundamental books!
-- ⚡ Fun fact: My first PC was Vilnus 86 in the Informatics class) and I made an MTV logo with Basic on it)
+- ⚡ Fun fact: My first PC was Vilnus 86 at the Informatics class) and I made an MTV logo with Basic on it)
   And that was IT!
 
 ---
